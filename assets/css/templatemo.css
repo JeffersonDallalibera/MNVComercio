@@ -83,7 +83,7 @@ body, ul, li, p, a, label, input, div {
 .shop-top-menu a:hover { color: #303531 !important;}
 /* Product */
 .product-wap { box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.10);}
-.product-wap .product-color-dot.color-dot-red { background:#f71515;}
+.product-wap .product-color-dot.color-dot-white { background:#ffffff;}
 .product-wap .product-color-dot.color-dot-blue { background:#6db4fe;}
 .product-wap .product-color-dot.color-dot-black { background:#000000;}
 .product-wap .product-color-dot.color-dot-light { background:#e0e0e0;}
@@ -94,10 +94,7 @@ body, ul, li, p, a, label, input, div {
   opacity: 0;
   transition: .3s;
 }
-.card.product-wap:hover .card .product-overlay {
-  visibility: visible;
-  opacity: 1;
-}
+
 .card.product-wap a { color: #000;}
 #carousel-related-product .slick-slide:focus { outline: none !important;}
 #carousel-related-product .slick-dots li button:before {
@@ -132,13 +129,13 @@ body, ul, li, p, a, label, input, div {
 /* Services */
 .services-icon-wap {transition: .3s;}
 .services-icon-wap:hover, .services-icon-wap:hover i {color: #fff;}
-.services-icon-wap:hover {background: #69bb7e;}
+.services-icon-wap:hover {background: #214ded;}
 /* Contact map */
 .leaflet-control a, .leaflet-control { font-size: 10px !important;}
 .form-control { border: 1px solid #e8e8e8;}
 /* Footer */
 #tempaltemo_footer a { color: #dcdde1;}
-#tempaltemo_footer a:hover { color: #68bb7d;}
+#tempaltemo_footer a:hover { color: #214ded;}
 #tempaltemo_footer ul.footer-link-list li { padding-top: 10px;}
 #tempaltemo_footer ul.footer-icons li {
   width: 2.6em;
