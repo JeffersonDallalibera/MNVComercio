@@ -5,3 +5,7 @@ Custom Css
 #desc_empresa{
     text-align: justify;
 }
+
+.card-body p{
+    color: rgb(0, 7, 75);
+}
