@@ -7,5 +7,45 @@ Custom Css
 }
 
 .card-body p{
-    color: rgb(0, 7, 75);
+    color: rgb(53, 255, 12);
 }
+
+.btncontact{
+
+    color: #ffffff; 
+    
+    background-color:#000897;
+    
+    padding-top: 20px;
+    
+    padding-bottom: 20px;
+    
+    width: 100%;
+    
+    border-radius: 10px;
+    
+    border: none;
+    
+    margin-top: 5px;
+    
+    margin-bottom: 5px;
+    
+    font-size:15px;
+    
+    }
+    
+.alinhabtn{
+    
+    text-align: center;
+    
+    margin: auto;
+    
+    }
+    
+.u{
+
+    text-decoration:none;
+        
+    }
+
+
