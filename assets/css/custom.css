@@ -4,10 +4,15 @@ Custom Css
 
 #desc_empresa{
     text-align: justify;
+    color:#000554;
+}
+
+#textopadrao{
+    color:#000554;
 }
 
 .card-body p{
-    color: rgb(53, 255, 12);
+    color:#000554;
 }
 
 .btncontact{
